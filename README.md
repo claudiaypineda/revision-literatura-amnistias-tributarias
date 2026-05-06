@@ -12,10 +12,9 @@ Este repositorio contiene los scripts, bases de datos y archivos complementarios
 - `datos/`: bases de datos consolidadas utilizadas en el análisis bibliométrico.
 - `anexos/`: archivos complementarios y anexos metodológicos.
 
-## Autores
+## Autor
 
-- Claudia Y. Pineda
-- Luis Eduardo Ruiz Paredes
+- Claudia Yineth Pineda
 
 ## Estado del proyecto
 
